@@ -150,7 +150,7 @@ const experiences = [
     company_name: "Tech Researchers Club",
     icon: mobile,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2024 - Jan 2025",
     points: [
 "      Served as Management Lead in Tech Researchers club, overseeing event planning and execution",
 "Coordinated with multiple teams to ensure smooth communication and timely deliverables",
